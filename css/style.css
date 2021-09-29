@@ -1,0 +1,57 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.navbar{
+    background-color: maroon;
+}
+
+.img1{
+    margin: auto;
+    margin-left: 10px;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color: white;
+}
+
+.fisQ{
+    background-color: rgb(250, 250, 250);
+}
+
+h2{
+    margin: auto;
+    margin-bottom: 20px;
+
+}
+h4{
+    margin: auto;
+    margin-top: 20px;
+    text-align: justify;
+}
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.fotografia{
+background-color:  rgb(240, 240, 240);
+}
+
+.contatos{
+    background-color: rgb(250, 250, 250);
+
+}
+
+#top{
+    position: fixed;
+    bottom:8%;
+    right:2%;
+}
+
+#top:hover{
+    color: grey;
+}
+
+.bg-footer{
+    background-color:  rgb(240, 240, 240);
+}
